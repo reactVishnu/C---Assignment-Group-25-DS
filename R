@@ -1,0 +1,28 @@
+Hi,
+
+We created this program for the Bonus Question
+
+OS: Mac OS Ventura
+
+Assignment - Bits Pilani Group 25 Data Structure
+
+Well, this program doesn't include any dependencies but a c compiler is must to run this.. We think to create this program on top of Docker, but we just think it would be overkill, so we skip that plan
+
+
+# Sorted Array Merger Program
+
+This is a C program that takes a list of non-empty sorted arrays of integers and merges them into a single sorted array. It provides a responsive user interface, handles errors gracefully, and efficiently merges and sorts the input data.
+
+## Features
+
+- Merges multiple sorted arrays into one.
+- Accepts user input for array sizes and elements.
+- Handles invalid input and memory allocation errors.
+- Provides a sorted merged array as output.
+
+## Usage
+
+1. **Compile the Program**: Compile the program using a C compiler (e.g., GCC).
+
+   ```bash
+   gcc sorted_array_merger.c -o sorted_array_merger
